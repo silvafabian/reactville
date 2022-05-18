@@ -3,6 +3,7 @@ import '../../styles/burger.css'
 
 import { ingredients } from '../../data/burger-data'
 
+
 const BurgerShop = () => {
   console.log(ingredients)
   
